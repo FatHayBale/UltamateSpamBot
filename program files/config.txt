@@ -1,0 +1,8 @@
+Message = "ASHROI"
+Time_Inbetween_Messages = "0.1"
+Wait_Time_To_Start_The_Program = "5"
+
+WARNING IF YOU SET MESSAGES TO REPEAT INFINETLY YOU MUST TO HARDCRASH THE PROGRAM IN ORDER FOR IT TO STOP
+
+Repeat_Messaging_Infinetly = False
+Should_Enter_Be_Pressed_By_Default = True
